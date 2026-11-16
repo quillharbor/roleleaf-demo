@@ -1,0 +1,36 @@
+name: Publish demo downloads
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: demo-pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - name: Read configured Pages URL
+        uses: actions/configure-pages@v5
+        id: pages
+      - name: Install QR generator
+        run: python3 -m pip install qrcode==8.2
+      - name: Verify files and generate QR for the actual page
+        env:
+          DEMO_PAGES_URL: ${{ steps.pages.outputs.base_url }}
+        run: python3 deployment/prepare-pages.py --site dist
+      - name: Upload only the download directory
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+      - name: Deploy
+        uses: actions/deploy-pages@v4
+        id: deployment
