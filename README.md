@@ -1,5 +1,7 @@
 # RoleLeaf Demo
 
+**[Open the download page](https://quillharbor.github.io/roleleaf-demo/)** · [Demo releases](https://github.com/quillharbor/roleleaf-demo/releases)
+
 Direct-download demos for **Android** and **desktop Chrome**. No official app-store installation is required.
 
 - Android: download the APK, open it and confirm installation. Allow this browser to install unknown apps only when prompted.
