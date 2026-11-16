@@ -28,7 +28,7 @@ def prepare(site, base_url):
         expected.add(filename)
     if {p.name for p in (site / "files").iterdir()} != expected:
         raise ValueError("Unexpected file in demo download directory")
-    allowed = {"index.html", "style.css", "app.js", "logo.png", "release.js", "release.json", "SHA256SUMS", "files", "android-qr.svg", ".nojekyll"}
+    allowed = {"index.html", "style.css", "app.js", "i18n.js", "messages.js", "logo.png", "release.js", "release.json", "SHA256SUMS", "files", "android-qr.svg", ".nojekyll"}
     if any(p.name not in allowed or p.is_symlink() for p in site.iterdir()):
         raise ValueError("Unexpected site content")
     expected_sums = "".join(f"{a['sha256']}  {a['filename']}\n" for a in artifacts)
