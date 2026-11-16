@@ -5,10 +5,10 @@
   "artifacts": [
     {
       "platform": "android",
-      "filename": "RoleLeaf-DEMO-0.5.8-demo.23.apk",
-      "version": "0.5.8-demo.23",
-      "bytes": 4400944,
-      "sha256": "6c6c9f48a90feaf88e3a5f222535e3c24ef9054d4f2cd2ec26bbf65b871a2c7b",
+      "filename": "RoleLeaf-DEMO-0.5.8-demo.24.apk",
+      "version": "0.5.8-demo.24",
+      "bytes": 4402376,
+      "sha256": "57a900c65bba0e79c95f072b2837288a5e3488bbd3d24e6f8178f30996951bce",
       "minimum": "Android 8+"
     },
     {

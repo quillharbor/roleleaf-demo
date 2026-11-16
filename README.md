@@ -4,12 +4,12 @@ English · [العربية](readme/ar.md) · [日本語](readme/ja.md) · [한�
 
 RoleLeaf saves available character details, images, and conversations from Tipsy and Character.AI to your device.
 
-[Download RoleLeaf Demo](https://quillharbor.github.io/roleleaf-demo/) · [Release files and checksums](https://github.com/quillharbor/roleleaf-demo/releases/tag/v0.5.8-demo)
+[Download RoleLeaf Demo](https://quillharbor.github.io/roleleaf-demo/) · [Release files and checksums](https://github.com/quillharbor/roleleaf-demo/releases/tag/v0.5.8-demo.24)
 
 ## Android
 
 1. On Android 8 or later, download the Demo APK. Open it, allow installation from your browser if prompted, then install RoleLeaf.
-2. Open RoleLeaf and sign in to Tipsy or Character.AI. Use the language menu at the bottom of the app, then open **Batch export**.
+2. Open RoleLeaf and sign in to Tipsy or Character.AI. Tap **⋮ → Language** in the toolbar to change languages. Tap **Export** to start, or find **Open ZIP** under **⋮**.
 
 ## Desktop Chrome
 

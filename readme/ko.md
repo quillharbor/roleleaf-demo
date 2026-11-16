@@ -10,7 +10,7 @@ RoleLeaf는 Tipsy와 Character.AI에서 가져올 수 있는 캐릭터 정보, �
 
 1. Android 8 이상 기기에서 데모 APK를 다운로드하세요.
 2. APK를 여세요. 권한 요청이 표시되면 이 브라우저에서 알 수 없는 앱을 설치하도록 허용한 뒤 돌아와 설치하세요.
-3. RoleLeaf를 열고 화면 하단에서 언어를 선택하세요. Tipsy 또는 Character.AI에 로그인한 뒤 **일괄 내보내기**를 여세요.
+3. RoleLeaf를 열고 상단 도구 모음에서 **⋮ → 언어**를 선택하세요. Tipsy 또는 Character.AI에 로그인한 뒤 **내보내기**를 누르세요.
 
 ## 데스크톱 Chrome
 

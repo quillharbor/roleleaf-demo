@@ -10,7 +10,7 @@ RoleLeaf 可將 Tipsy 和 Character.AI 中可取得的角色資料、圖片及�
 
 1. 在 Android 8 以上版本的裝置下載體驗版 APK。
 2. 開啟 APK。若系統提示，允許此瀏覽器安裝未知的應用程式，再返回並確認安裝。
-3. 開啟 RoleLeaf，在畫面底部切換語言，登入 Tipsy 或 Character.AI，再開啟「批次匯出」。
+3. 開啟 RoleLeaf，從頂部工具列的「⋮ → 語言」切換語言，登入 Tipsy 或 Character.AI，再點選「匯出」。
 
 ## 電腦版 Chrome
 
