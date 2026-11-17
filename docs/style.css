@@ -2,6 +2,20 @@
 
 [hidden]{display:none!important}
 
+.guide .section-heading .eyebrow {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: var(--green);
+  color: #fff;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 1.6px;
+  line-height: 1;
+  box-shadow: 0 5px 14px rgb(34 99 72 / 18%);
+}
+
 [dir=rtl] h1,[dir=rtl] h2,[dir=rtl] .eyebrow{letter-spacing:normal}code{direction:ltr;unicode-bidi:isolate}
 
 .header { gap: 12px; }
@@ -33,4 +47,8 @@
 }
 @media (max-width: 370px) {
   .header .brand span { display: none; }
+}
+
+@media (max-width: 700px) {
+  .guide .section-heading .eyebrow { padding: 7px 12px; font-size: 11px; }
 }
