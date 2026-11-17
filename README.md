@@ -14,7 +14,7 @@ RoleLeaf saves available character details, images, and conversations from Tipsy
 ## Desktop Chrome
 
 1. On Chrome 111 or later, download and extract the ZIP to a folder you will keep.
-2. Open `chrome://extensions`, turn on **Developer mode**, and choose **Load unpacked**. Select the `tipsy-exporter` folder containing `manifest.json`.
+2. Open `chrome://extensions`, turn on **Developer mode**, and choose **Load unpacked**. Select the `exporter` folder containing `manifest.json`.
 3. Pin RoleLeaf, refresh the source website, and open the extension popup. The language menu is in the popup.
 
 ## Export and update

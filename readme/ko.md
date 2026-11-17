@@ -15,7 +15,7 @@ RoleLeaf는 Tipsy와 Character.AI에서 가져올 수 있는 캐릭터 정보, �
 ## 데스크톱 Chrome
 
 1. Chrome 111 이상에서 ZIP을 다운로드하고 계속 보관할 폴더에 압축을 푸세요.
-2. `chrome://extensions`를 열고 **개발자 모드**를 켜세요. **압축해제된 확장 프로그램을 로드합니다**를 클릭한 뒤 `manifest.json`이 있는 `tipsy-exporter` 폴더를 선택하세요.
+2. `chrome://extensions`를 열고 **개발자 모드**를 켜세요. **압축해제된 확장 프로그램을 로드합니다**를 클릭한 뒤 `manifest.json`이 있는 `exporter` 폴더를 선택하세요.
 3. RoleLeaf를 도구 모음에 고정하고 원본 사이트를 새로고침하세요. 확장 프로그램을 열고 메뉴에서 언어를 선택하세요.
 
 ## 캐릭터 내보내기

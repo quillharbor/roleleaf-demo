@@ -15,7 +15,7 @@ RoleLeaf 可將 Tipsy 和 Character.AI 中可取得的角色資料、圖片及�
 ## 電腦版 Chrome
 
 1. 使用 Chrome 111 以上版本下載 ZIP，並解壓縮到會長期保留的位置。
-2. 開啟 `chrome://extensions` 並啟用「開發人員模式」。點選「載入未封裝項目」，選取內含 `manifest.json` 的 `tipsy-exporter` 資料夾。
+2. 開啟 `chrome://extensions` 並啟用「開發人員模式」。點選「載入未封裝項目」，選取內含 `manifest.json` 的 `exporter` 資料夾。
 3. 將 RoleLeaf 釘選到工具列，重新整理來源網站。開啟擴充功能並從選單切換語言。
 
 ## 匯出角色
