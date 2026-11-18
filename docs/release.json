@@ -1,6 +1,6 @@
 {
-  "version": "0.5.13",
-  "date": "2026-11-17",
+  "version": "0.5.14",
+  "date": "2026-11-18",
   "url": "https://quillharbor.github.io/roleleaf-demo/",
   "artifacts": [
     {
@@ -13,10 +13,10 @@
     },
     {
       "platform": "chrome",
-      "filename": "RoleLeaf-0.5.13.zip",
-      "version": "0.5.13",
-      "bytes": 118575,
-      "sha256": "35d6686e8eb06f9b0d119ade42120ea3bfd8ae76abc3c252f59bc2e1cdfa72ee",
+      "filename": "RoleLeaf-0.5.14.zip",
+      "version": "0.5.14",
+      "bytes": 363923,
+      "sha256": "b32e2ef007778551fdacb0759aad04eaf9f90ac22d192f2572a33347719479b2",
       "minimum": "Desktop Chrome 111+"
     }
   ]

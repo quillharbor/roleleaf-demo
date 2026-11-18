@@ -4,7 +4,7 @@ English · [العربية](readme/ar.md) · [日本語](readme/ja.md) · [한�
 
 RoleLeaf saves available character details, images, and conversations from Tipsy and Character.AI to your device.
 
-[Download RoleLeaf Demo](https://quillharbor.github.io/roleleaf-demo/) · [Release files and checksums](https://github.com/quillharbor/roleleaf-demo/releases/tag/v0.5.13-demo)
+[Download RoleLeaf Demo](https://quillharbor.github.io/roleleaf-demo/)
 
 ## Android
 
