@@ -1,22 +1,22 @@
 {
-  "version": "0.5.15",
-  "date": "2026-11-19",
+  "version": "0.5.16",
+  "date": "2026-11-20",
   "url": "https://quillharbor.github.io/roleleaf-demo/",
   "artifacts": [
     {
       "platform": "android",
-      "filename": "RoleLeaf-DEMO-0.5.15-demo.31.apk",
-      "version": "0.5.15-demo.31",
-      "bytes": 4421627,
-      "sha256": "d8f7da085b945480334d2a8b86eaa1f3fa3f9c5cf72b49e713ae95905cc60308",
+      "filename": "RoleLeaf-DEMO-0.5.16-demo.37.apk",
+      "version": "0.5.16-demo.37",
+      "bytes": 4424075,
+      "sha256": "0ed665bd6db492498a58e206f7fcc230647568310f96dede16d5ee9f424cbd93",
       "minimum": "Android 8+"
     },
     {
       "platform": "chrome",
-      "filename": "RoleLeaf-0.5.15.zip",
-      "version": "0.5.15",
-      "bytes": 422413,
-      "sha256": "bfe9638f67b836dca7134cfb76ad9a116e328a04e71b9801619cd675fcd1c2b3",
+      "filename": "RoleLeaf-0.5.16.zip",
+      "version": "0.5.16",
+      "bytes": 425869,
+      "sha256": "a5fc2bc32ff664973eb90b9463542c62ae58762b2ac630c4b6d5ca134b3431e6",
       "minimum": "Desktop Chrome 111+"
     }
   ]
